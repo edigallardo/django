@@ -1,7 +1,7 @@
 ﻿asgiref==3.7.2
 certifi==2023.11.17
 distlib==0.3.7
-Django==3.2.28
+Django
 filelock==3.13.1
 pipenv==2023.11.15
 platformdirs==4.1.0
